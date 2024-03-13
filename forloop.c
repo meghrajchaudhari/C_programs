@@ -6,7 +6,7 @@ int main()
 //       1      2     3
    for (i=1; i <= 5; i++)
    {
-       printf("Jay Ganesh...\n"); // 4 
+       printf("jay bajarang\n"); // 4 
    }
     return 0;
 }
